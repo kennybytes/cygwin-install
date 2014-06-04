@@ -14,3 +14,6 @@ python ^
 curl ^
 perl ^
 zsh ^
+unzip ^ 
+gettext ^
+
