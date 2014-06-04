@@ -13,3 +13,4 @@ ruby ^
 python ^
 curl ^
 perl ^
+zsh ^
